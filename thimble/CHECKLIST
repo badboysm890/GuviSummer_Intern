@@ -1,0 +1,9 @@
+Author:Praveen G (badboy17g)
+Date: 22 mon apr 2:48 AM
+
+1.ALL THE php,css,html files should be separate
+2.css should be written in scss/sass
+3.form submission handled by ajax
+4.responsive use bootstrap
+5.use jquery
+6.save data in mysql DB and json file "note:onlinux it doesnt work due to permission
